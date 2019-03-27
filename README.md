@@ -1,2 +1,3 @@
 # python_portfolio
-Demonstration of my Python Capabilities
+
+This portfolio is a collection of works to demonstrate my capabilities to code in Python.
